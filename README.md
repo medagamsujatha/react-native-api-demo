@@ -31,6 +31,7 @@ react-native-api-demo/
 ├── package.json
 ├── README.md
 └── .gi    ```
+
 Project Benifits:
 Demonstrates strong understanding of React Native fundamentals
 Hands-on experience with REST API integration (GET & POST)
